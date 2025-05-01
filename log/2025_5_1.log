@@ -20,3 +20,6 @@
 2025-05-01 08:17:16,536 [ERROR] 请求失败：403 Client Error: Forbidden for url: https://www.zhihu.com/api/v4/search/top_search
 2025-05-01 08:17:16,536 [ERROR] 没有获取到热搜数据，退出。
 2025-05-01 08:17:17,086 [INFO] 成功写入 30 条热榜到 hotquestion/2025_5_1/2025_5_1_8.txt
+2025-05-01 09:13:30,544 [ERROR] 请求失败：403 Client Error: Forbidden for url: https://www.zhihu.com/api/v4/search/top_search
+2025-05-01 09:13:30,544 [ERROR] 没有获取到热搜数据，退出。
+2025-05-01 09:13:31,107 [INFO] 成功写入 30 条热榜到 hotquestion/2025_5_1/2025_5_1_9.txt
