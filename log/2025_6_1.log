@@ -1,0 +1,3 @@
+2025-06-01 01:16:39,522 [INFO] 成功写入 10 条热搜到 hotresearch/2025_6_1/2025_6_1_1.txt
+2025-06-01 01:16:40,038 [ERROR] 请求失败：403 Client Error: Forbidden for url: https://www.zhihu.com/api/v3/feed/topstory/hot-lists/total?limit=50&desktop=true
+2025-06-01 01:16:40,038 [ERROR] 没有获取到热榜数据，退出。
