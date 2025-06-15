@@ -1,0 +1,3 @@
+2025-06-15 01:12:38,036 [INFO] 成功写入 10 条热搜到 hotresearch/2025_6_15/2025_6_15_1.txt
+2025-06-15 01:12:38,507 [ERROR] 请求失败：401 Client Error: Authorization Required for url: https://www.zhihu.com/api/v3/feed/topstory/hot-lists/total?limit=50&desktop=true
+2025-06-15 01:12:38,508 [ERROR] 没有获取到热榜数据，退出。
