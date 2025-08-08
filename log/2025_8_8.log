@@ -45,3 +45,7 @@
 2025-08-08 13:33:57,638 [ERROR] 没有获取到热搜数据，退出。
 2025-08-08 13:33:57,978 [ERROR] 请求失败：401 Client Error: Authorization Required for url: https://www.zhihu.com/api/v3/feed/topstory/hot-lists/total?limit=50&desktop=true
 2025-08-08 13:33:57,979 [ERROR] 没有获取到热榜数据，退出。
+2025-08-08 14:16:30,033 [ERROR] 请求失败：403 Client Error: Forbidden for url: https://www.zhihu.com/api/v4/search/top_search
+2025-08-08 14:16:30,034 [ERROR] 没有获取到热搜数据，退出。
+2025-08-08 14:16:30,437 [ERROR] 请求失败：401 Client Error: Authorization Required for url: https://www.zhihu.com/api/v3/feed/topstory/hot-lists/total?limit=50&desktop=true
+2025-08-08 14:16:30,437 [ERROR] 没有获取到热榜数据，退出。
