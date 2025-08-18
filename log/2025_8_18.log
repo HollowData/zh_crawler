@@ -46,3 +46,7 @@
 2025-08-18 13:31:02,254 [ERROR] 没有获取到热搜数据，退出。
 2025-08-18 13:31:02,593 [ERROR] 请求失败：403 Client Error: Forbidden for url: https://www.zhihu.com/api/v3/feed/topstory/hot-lists/total?limit=50&desktop=true
 2025-08-18 13:31:02,593 [ERROR] 没有获取到热榜数据，退出。
+2025-08-18 14:14:36,830 [ERROR] 请求失败：403 Client Error: Forbidden for url: https://www.zhihu.com/api/v4/search/top_search
+2025-08-18 14:14:36,830 [ERROR] 没有获取到热搜数据，退出。
+2025-08-18 14:14:37,252 [ERROR] 请求失败：403 Client Error: Forbidden for url: https://www.zhihu.com/api/v3/feed/topstory/hot-lists/total?limit=50&desktop=true
+2025-08-18 14:14:37,252 [ERROR] 没有获取到热榜数据，退出。
