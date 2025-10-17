@@ -2,3 +2,7 @@
 2025-10-17 00:59:59,218 [ERROR] 没有获取到热搜数据，退出。
 2025-10-17 00:59:59,666 [ERROR] 请求失败：403 Client Error: Forbidden for url: https://www.zhihu.com/api/v3/feed/topstory/hot-lists/total?limit=50&desktop=true
 2025-10-17 00:59:59,666 [ERROR] 没有获取到热榜数据，退出。
+2025-10-17 02:25:17,149 [ERROR] 请求失败：525 Server Error: EO errCode : SSL handshake failed for url: https://www.zhihu.com/api/v4/search/top_search
+2025-10-17 02:25:17,149 [ERROR] 没有获取到热搜数据，退出。
+2025-10-17 02:25:17,876 [ERROR] 请求失败：525 Server Error: EO errCode : SSL handshake failed for url: https://www.zhihu.com/api/v3/feed/topstory/hot-lists/total?limit=50&desktop=true
+2025-10-17 02:25:17,876 [ERROR] 没有获取到热榜数据，退出。
