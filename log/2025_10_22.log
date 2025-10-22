@@ -35,3 +35,6 @@
 2025-10-22 09:15:10,314 [INFO] 成功写入 10 条热搜到 hotresearch/2025_10_22/2025_10_22_9.txt
 2025-10-22 09:15:11,263 [ERROR] 请求失败：403 Client Error: Forbidden for url: https://www.zhihu.com/api/v3/feed/topstory/hot-lists/total?limit=50&desktop=true
 2025-10-22 09:15:11,263 [ERROR] 没有获取到热榜数据，退出。
+2025-10-22 10:14:59,504 [INFO] 成功写入 10 条热搜到 hotresearch/2025_10_22/2025_10_22_10.txt
+2025-10-22 10:14:59,996 [ERROR] 请求失败：403 Client Error: Forbidden for url: https://www.zhihu.com/api/v3/feed/topstory/hot-lists/total?limit=50&desktop=true
+2025-10-22 10:14:59,996 [ERROR] 没有获取到热榜数据，退出。
