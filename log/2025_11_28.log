@@ -72,3 +72,6 @@
 2025-11-28 22:15:06,796 [WARNING] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f714d36b350>: Failed to establish a new connection: [Errno 101] Network is unreachable')': /api/v3/feed/topstory/hot-lists/total?limit=50&desktop=true
 2025-11-28 22:15:16,807 [ERROR] 请求失败：HTTPSConnectionPool(host='www.zhihu.com', port=443): Max retries exceeded with url: /api/v3/feed/topstory/hot-lists/total?limit=50&desktop=true (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f714d36b4a0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
 2025-11-28 22:15:16,807 [ERROR] 没有获取到热榜数据，退出。
+2025-11-28 23:12:15,303 [INFO] 成功写入 10 条热搜到 hotresearch/2025_11_28/2025_11_28_23.txt
+2025-11-28 23:12:15,652 [ERROR] 请求失败：401 Client Error: Authorization Required for url: https://www.zhihu.com/api/v3/feed/topstory/hot-lists/total?limit=50&desktop=true
+2025-11-28 23:12:15,652 [ERROR] 没有获取到热榜数据，退出。
