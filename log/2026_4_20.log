@@ -37,3 +37,6 @@
 2026-04-20 21:39:22,758 [INFO] 成功写入 10 条热搜到 hotresearch/2026_4_20/2026_4_20_21.txt
 2026-04-20 21:39:23,102 [ERROR] 请求失败：401 Client Error: Authorization Required for url: https://www.zhihu.com/api/v3/feed/topstory/hot-lists/total?limit=50&desktop=true
 2026-04-20 21:39:23,102 [ERROR] 没有获取到热榜数据，退出。
+2026-04-20 22:36:09,516 [INFO] 成功写入 10 条热搜到 hotresearch/2026_4_20/2026_4_20_22.txt
+2026-04-20 22:36:09,871 [ERROR] 请求失败：401 Client Error: Authorization Required for url: https://www.zhihu.com/api/v3/feed/topstory/hot-lists/total?limit=50&desktop=true
+2026-04-20 22:36:09,871 [ERROR] 没有获取到热榜数据，退出。
