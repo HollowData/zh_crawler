@@ -41,3 +41,7 @@
 2026-05-02 19:49:16,502 [INFO] 成功写入 10 条热搜到 hotresearch/2026_5_2/2026_5_2_19.txt
 2026-05-02 19:49:16,878 [ERROR] 请求失败：401 Client Error: Authorization Required for url: https://www.zhihu.com/api/v3/feed/topstory/hot-lists/total?limit=50&desktop=true
 2026-05-02 19:49:16,878 [ERROR] 没有获取到热榜数据，退出。
+2026-05-02 20:33:57,856 [WARNING] Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb5d528230>: Failed to establish a new connection: [Errno 101] Network is unreachable')': /api/v4/search/top_search
+2026-05-02 20:33:58,288 [INFO] 成功写入 10 条热搜到 hotresearch/2026_5_2/2026_5_2_20.txt
+2026-05-02 20:33:58,793 [ERROR] 请求失败：401 Client Error: Authorization Required for url: https://www.zhihu.com/api/v3/feed/topstory/hot-lists/total?limit=50&desktop=true
+2026-05-02 20:33:58,793 [ERROR] 没有获取到热榜数据，退出。
