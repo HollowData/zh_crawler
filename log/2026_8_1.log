@@ -42,3 +42,6 @@
 2026-08-01 22:45:57,391 [WARNING] Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='www.zhihu.com', port=443): Read timed out. (read timeout=10)")': /api/v3/feed/topstory/hot-lists/total?limit=50&desktop=true
 2026-08-01 22:45:57,964 [ERROR] 请求失败：403 Client Error: Forbidden for url: https://www.zhihu.com/api/v3/feed/topstory/hot-lists/total?limit=50&desktop=true
 2026-08-01 22:45:57,965 [ERROR] 没有获取到热榜数据，退出。
+2026-08-01 23:50:27,079 [INFO] 成功写入 10 条热搜到 hotresearch/2026_8_1/2026_8_1_23.txt
+2026-08-01 23:50:27,790 [ERROR] 请求失败：401 Client Error: Authorization Required for url: https://www.zhihu.com/api/v3/feed/topstory/hot-lists/total?limit=50&desktop=true
+2026-08-01 23:50:27,790 [ERROR] 没有获取到热榜数据，退出。
