@@ -75,3 +75,7 @@
 2026-08-21 21:15:34,806 [ERROR] 没有获取到热搜数据，退出。
 2026-08-21 21:15:35,776 [ERROR] 请求失败：401 Client Error: Authorization Required for url: https://www.zhihu.com/api/v3/feed/topstory/hot-lists/total?limit=50&desktop=true
 2026-08-21 21:15:35,776 [ERROR] 没有获取到热榜数据，退出。
+2026-08-21 22:14:54,820 [WARNING] 未获取到有效的 words 列表，响应 keys: ['top_search']
+2026-08-21 22:14:54,820 [ERROR] 没有获取到热搜数据，退出。
+2026-08-21 22:14:55,666 [ERROR] 请求失败：401 Client Error: Authorization Required for url: https://www.zhihu.com/api/v3/feed/topstory/hot-lists/total?limit=50&desktop=true
+2026-08-21 22:14:55,666 [ERROR] 没有获取到热榜数据，退出。
