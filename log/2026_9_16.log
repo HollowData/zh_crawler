@@ -10,3 +10,9 @@
 2026-09-16 15:13:49,422 [INFO] 成功写入 10 条热搜到 hotresearch/2026_9_16/2026_9_16_15.txt
 2026-09-16 15:13:50,085 [ERROR] 请求失败：403 Client Error: Forbidden for url: https://www.zhihu.com/api/v3/feed/topstory/hot-lists/total?limit=50&desktop=true
 2026-09-16 15:13:50,085 [ERROR] 没有获取到热榜数据，退出。
+2026-09-16 19:15:25,309 [WARNING] Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fae1c43ec30>: Failed to establish a new connection: [Errno 101] Network is unreachable')': /api/v4/search/top_search
+2026-09-16 19:15:25,871 [INFO] 成功写入 10 条热搜到 hotresearch/2026_9_16/2026_9_16_19.txt
+2026-09-16 19:15:35,994 [WARNING] Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f132720b170>: Failed to establish a new connection: [Errno 101] Network is unreachable')': /api/v3/feed/topstory/hot-lists/total?limit=50&desktop=true
+2026-09-16 19:15:45,261 [WARNING] Retrying (Retry(total=3, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f132720b200>: Failed to establish a new connection: [Errno 101] Network is unreachable')': /api/v3/feed/topstory/hot-lists/total?limit=50&desktop=true
+2026-09-16 19:15:45,796 [ERROR] 请求失败：403 Client Error: Forbidden for url: https://www.zhihu.com/api/v3/feed/topstory/hot-lists/total?limit=50&desktop=true
+2026-09-16 19:15:45,796 [ERROR] 没有获取到热榜数据，退出。
